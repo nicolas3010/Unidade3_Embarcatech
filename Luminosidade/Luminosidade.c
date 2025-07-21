@@ -4,12 +4,7 @@
 #include "display.h"
 #include "bh1750.h"
 
-
 #define I2C_PORT i2c0
-#define I2C_SDA 0
-#define I2C_SCL 1
-
-
 
 int main()
 {
